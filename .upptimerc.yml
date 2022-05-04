@@ -5,17 +5,23 @@ repo: status
 sites:
   - name: API Production
     url: https://api.trunkstar.com/status
+    icon: https://www.google.com/favicon.ico
   - name: Website Production
     url: https://trunkstar.com
+    icon: https://www.google.com/favicon.ico
   - name: Platform Production
     url: https://platform.trunkstar.com
+    icon: https://www.google.com/favicon.ico
     
   - name: API Staging
     url: https://api.staging.trunkstar.com/status
+    icon: https://www.google.com/favicon.ico
   - name: Website Staging
     url: https://website.staging.trunkstar.com
+    icon: https://www.google.com/favicon.ico
   - name: Platform Staging
     url: https://platform.staging.trunkstar.com
+    icon: https://www.google.com/favicon.ico
     
 status-website:
   cname: status.trunkstar.com
