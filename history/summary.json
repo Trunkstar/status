@@ -4,18 +4,20 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1144,
-    "timeWeek": 1002,
-    "timeMonth": 1057,
-    "timeYear": 1071,
-    "dailyMinutesDown": {}
+    "time": 1072,
+    "timeDay": 1124,
+    "timeWeek": 1014,
+    "timeMonth": 1058,
+    "timeYear": 1072,
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
   },
   {
     "name": "Website Production",
