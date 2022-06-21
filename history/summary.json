@@ -60,18 +60,19 @@
     "url": "https://api.staging.trunkstar.com/status",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "api-staging",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 611,
     "timeDay": 409,
     "timeWeek": 487,
     "timeMonth": 622,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-07": 120
     }
   },
@@ -98,9 +99,9 @@
     "url": "https://platform.staging.trunkstar.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "platform-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +110,8 @@
     "timeWeek": 458,
     "timeMonth": 506,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
