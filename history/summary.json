@@ -4,11 +4,11 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.88%",
     "time": 1038,
     "timeDay": 758,
@@ -16,6 +16,7 @@
     "timeMonth": 1013,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-10": 85
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://trunkstar.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 471,
     "timeMonth": 519,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Platform Production",
     "url": "https://platform.trunkstar.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "platform-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,26 +56,28 @@
     "timeWeek": 487,
     "timeMonth": 529,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "API Staging",
     "url": "https://api.staging.trunkstar.com/status",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "api-staging",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.83%",
     "time": 607,
     "timeDay": 424,
     "timeWeek": 481,
     "timeMonth": 617,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2022-06-21": 5,
+      "2022-06-21": 0,
       "2022-06-07": 120
     }
   },
@@ -81,9 +86,9 @@
     "url": "https://website.staging.trunkstar.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +97,9 @@
     "timeWeek": 475,
     "timeMonth": 508,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Platform Staging",
@@ -100,18 +107,18 @@
     "icon": "https://www.google.com/favicon.ico",
     "slug": "platform-staging",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 510,
     "timeDay": 380,
     "timeWeek": 458,
     "timeMonth": 506,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 41
     }
   }
 ]
