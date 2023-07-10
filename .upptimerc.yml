@@ -3,7 +3,7 @@ owner: Trunkstar
 repo: status
 
 sites:
-  - name: API Production
+  - name: API Production 
     url: https://api.trunkstar.com/status
 #     icon: https://www.google.com/favicon.ico
   - name: Website Production
