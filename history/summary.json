@@ -94,17 +94,19 @@
     "url": "https://platform.staging.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/platform.staging.trunkstar.com.ico",
     "slug": "platform-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 391,
-    "timeWeek": 532,
-    "timeMonth": 503,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 419,
+    "timeWeek": 522,
+    "timeMonth": 501,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2023-08-17": 0
+    }
   }
 ]
