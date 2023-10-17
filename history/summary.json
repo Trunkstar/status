@@ -4,19 +4,19 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.trunkstar.com.ico",
     "slug": "api-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1028,
-    "timeDay": 806,
-    "timeWeek": 1031,
+    "timeDay": 876,
+    "timeWeek": 1029,
     "timeMonth": 1004,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 5
     }
   },
   {
