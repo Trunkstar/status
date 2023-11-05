@@ -80,18 +80,20 @@
     "url": "https://website.staging.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/website.staging.trunkstar.com.ico",
     "slug": "website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 591,
-    "timeWeek": 503,
+    "timeDay": 550,
+    "timeWeek": 504,
     "timeMonth": 512,
     "timeYear": 503,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "Platform Staging",
