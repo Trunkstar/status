@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 950,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 1036,
+    "time": 1035,
+    "timeDay": 859,
+    "timeWeek": 1031,
+    "timeMonth": 1017,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2023-10-17": 5
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 527,
-    "timeDay": 604,
-    "timeWeek": 548,
-    "timeMonth": 535,
-    "timeYear": 527,
+    "time": 530,
+    "timeDay": 956,
+    "timeWeek": 627,
+    "timeMonth": 547,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 504,
-    "timeWeek": 558,
-    "timeMonth": 506,
-    "timeYear": 516,
+    "time": 515,
+    "timeDay": 388,
+    "timeWeek": 549,
+    "timeMonth": 501,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
-    "timeDay": 510,
-    "timeWeek": 547,
-    "timeMonth": 547,
+    "timeDay": 488,
+    "timeWeek": 546,
+    "timeMonth": 546,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-09-26": 6
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 446,
-    "timeWeek": 502,
-    "timeMonth": 490,
-    "timeYear": 499,
+    "time": 498,
+    "timeDay": 410,
+    "timeWeek": 505,
+    "timeMonth": 485,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2023-11-05": 5
     }
@@ -107,9 +107,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 491,
-    "timeDay": 442,
-    "timeWeek": 512,
-    "timeMonth": 488,
+    "timeDay": 454,
+    "timeWeek": 519,
+    "timeMonth": 485,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2023-11-21": 9,
