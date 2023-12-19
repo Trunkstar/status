@@ -1,7 +1,7 @@
 url: https://platform.staging.trunkstar.com
-status: down
-code: 404
-responseTime: 435
-lastUpdated: 2023-12-19T15:42:49.107Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2023-12-19T15:48:11.467Z
 startTime: Mon Jul 10 2023 15:28:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
