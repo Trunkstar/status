@@ -43,18 +43,20 @@
     "url": "https://platform.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/platform.trunkstar.com.ico",
     "slug": "platform-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 621,
-    "timeWeek": 517,
-    "timeMonth": 509,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 527,
+    "timeDay": 650,
+    "timeWeek": 537,
+    "timeMonth": 514,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "API Staging",
