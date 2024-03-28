@@ -4,9 +4,9 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.trunkstar.com.ico",
     "slug": "api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
+    "uptimeDay": "99.72%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1013,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-03-27": 4,
       "2023-10-17": 5
     }
