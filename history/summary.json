@@ -4,11 +4,11 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.trunkstar.com.ico",
     "slug": "api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1042,
     "timeDay": 1148,
@@ -16,6 +16,7 @@
     "timeMonth": 1019,
     "timeYear": 1042,
     "dailyMinutesDown": {
+      "2024-05-07": 3,
       "2024-03-28": 18,
       "2024-03-27": 4,
       "2023-10-17": 5
@@ -26,28 +27,30 @@
     "url": "https://trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/trunkstar.com.ico",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 536,
     "timeDay": 612,
     "timeWeek": 526,
     "timeMonth": 496,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-07": 2
+    }
   },
   {
     "name": "Platform Production",
     "url": "https://platform.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/platform.trunkstar.com.ico",
     "slug": "platform-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 525,
@@ -56,6 +59,7 @@
     "timeMonth": 497,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-05-07": 2,
       "2024-03-28": 6
     }
   },
@@ -64,11 +68,11 @@
     "url": "https://api.staging.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.staging.trunkstar.com.ico",
     "slug": "api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 645,
@@ -76,6 +80,7 @@
     "timeMonth": 517,
     "timeYear": 544,
     "dailyMinutesDown": {
+      "2024-05-07": 1,
       "2024-04-22": 5,
       "2023-09-26": 6
     }
@@ -85,10 +90,10 @@
     "url": "https://website.staging.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/website.staging.trunkstar.com.ico",
     "slug": "website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
@@ -97,6 +102,7 @@
     "timeMonth": 503,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2024-05-07": 1,
       "2023-11-05": 5
     }
   },
@@ -105,9 +111,9 @@
     "url": "https://platform.staging.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/platform.staging.trunkstar.com.ico",
     "slug": "platform-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -117,6 +123,7 @@
     "timeMonth": 483,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-04-05": 5,
       "2024-01-10": 8,
       "2023-12-19": 5,
