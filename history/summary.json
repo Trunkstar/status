@@ -22,17 +22,19 @@
     "url": "https://demo.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.trunkstar.com.ico",
     "slug": "trunkstar-demo-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 479,
-    "timeWeek": 611,
-    "timeMonth": 561,
-    "timeYear": 561,
-    "dailyMinutesDown": {}
+    "time": 562,
+    "timeDay": 542,
+    "timeWeek": 610,
+    "timeMonth": 562,
+    "timeYear": 562,
+    "dailyMinutesDown": {
+      "2025-07-02": 0
+    }
   }
 ]
