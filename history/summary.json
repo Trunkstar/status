@@ -4,10 +4,10 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.trunkstar.com.ico",
     "slug": "trunkstar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1199,
@@ -15,16 +15,18 @@
     "timeWeek": 1117,
     "timeMonth": 1073,
     "timeYear": 1199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "Trunkstar Demo Platform",
     "url": "https://demo.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.trunkstar.com.ico",
     "slug": "trunkstar-demo-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -34,6 +36,7 @@
     "timeMonth": 552,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2025-07-02": 12
     }
   }
