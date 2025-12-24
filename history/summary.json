@@ -4,10 +4,10 @@
     "url": "https://api.trunkstar.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.trunkstar.com.ico",
     "slug": "trunkstar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1092,
@@ -16,6 +16,7 @@
     "timeMonth": 1090,
     "timeYear": 1092,
     "dailyMinutesDown": {
+      "2025-12-24": 1,
       "2025-07-10": 13
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://demo.trunkstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.trunkstar.com.ico",
     "slug": "trunkstar-demo-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 590,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2025-12-24": 0,
       "2025-12-09": 16,
       "2025-12-05": 20,
       "2025-11-05": 14,
