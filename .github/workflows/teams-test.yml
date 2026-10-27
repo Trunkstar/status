@@ -1,0 +1,14 @@
+name: Teams test
+on:
+  workflow_dispatch:
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Send a sample card
+        run: bash .github/teams-notify.sh
+        env:
+          TEST: "1"
+          TEAMS_WEBHOOK_URL: ${{ secrets.NOTIFICATION_TEAMS_WEBHOOK_URL }}
+          GH_TOKEN: ${{ github.token }}
