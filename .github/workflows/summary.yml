@@ -22,7 +22,7 @@ on:
     types: [summary]
   workflow_dispatch:
 concurrency:
-  group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime-v2
+  group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
   cancel-in-progress: false
 jobs:
   release:
