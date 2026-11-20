@@ -1,10 +1,9 @@
-# keeps GitHub Actions current: one grouped PR per month
 version: 2
 updates:
   - package-ecosystem: github-actions
-    directory: /
-    schedule:
-      interval: monthly
+    directories: ["/"]
+    schedule: { interval: monthly }
+    cooldown: { default-days: 14 }
+    commit-message: { prefix: ci }
     groups:
-      actions:
-        patterns: ["*"]
+      actions: { patterns: ["*"] }
